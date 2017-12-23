@@ -1,0 +1,10 @@
+main {
+    /* Reference an image file */
+    color: red;
+    size: 15rem;
+    
+}
+
+body {
+    background: url('./images/background.jpg');
+}
